@@ -2,11 +2,16 @@
 // FOUNDATION SETTINGS
 //
 
+
+
+
+
 // This is the default html and body font-size for the base rem value.
 // $rem-base: 16px;
 
 // Allows the use of rem-calc() or lower-bound() in your settings
 @import "foundation/functions";
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,100,200,300);
 
 // $experimental: true;
 
